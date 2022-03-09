@@ -7,7 +7,9 @@ Doctors can open and close appointments, diagnose patients and choose diseases f
 Installation
 Clone Project for FrontEnd
 $ git clone https://github.com/Ranjan1501/appointment_management.git
+<br> 
 Install dependencies and start both client 
+<br> 
  backend server
 $ for Backend
 $ git clone https://github.com/Ranjan1501/apollo_backend.git
