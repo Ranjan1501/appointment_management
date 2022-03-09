@@ -13,16 +13,22 @@ Install dependencies and start both client
  backend server
 $ for Backend
 $ git clone https://github.com/Ranjan1501/apollo_backend.git
+<br> 
 $ npm i
+<br> 
 $ npm run server
+<br> 
 Go to localhost:4000
 
 $ for FrondEnd
-
+<br> 
 $ npm i
+<br> 
 $ npm start
+<br>
 Go to localhost:3000
-Tech
+<br> 
+## Tech Stacks 
 Server Side: Node.js, Express
 
 Client Side: React.js, Axios
