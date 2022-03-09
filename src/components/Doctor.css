@@ -1,0 +1,15 @@
+.docData {
+  width: 80%;
+  display: flex;
+  gap: 3%;
+  margin: auto;
+}
+.docSpeciality {
+  width: 80%;
+  display: flex;
+  gap: 3%;
+  margin: auto;
+}
+.docData h3 {
+  margin: 1%;
+}
